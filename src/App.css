@@ -1,0 +1,16 @@
+/* src/styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+div {
+  margin-bottom: 10px;
+}
